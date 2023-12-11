@@ -13,7 +13,7 @@
 
 ### 2- Description
 
-This repository contains a guided project from [Data and Decision youtube's channel](https://m.youtube.com/watch?v=7EEGhZb2WKY) where I built a **Toys Sales Insights Report** using **Power BI**. The analysis is conducted using a real dataset with `6000` sales records from different stores in differnt regions in the US. This report focuses on **Revenue Generated** accross all stores and cities.  `key metrics` presented are as follow:
+This repository contains a guided project from [Data and Decision youtube's channel](https://m.youtube.com/watch?v=7EEGhZb2WKY) where I built a **Toys Sales Insights Report** using **Power BI**. The analysis is conducted using a real dataset with more than `6000` sales records from different stores in differnt regions in the US. This report focuses on **Revenue Generated** accross all stores and cities.  `key metrics` presented are as follow:
 
 - Revenue trend on a monthly basics,
 - Revenue comparison across sales region

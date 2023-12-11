@@ -33,7 +33,7 @@ Throughout the guided project, I delved into a set of essential Power BI feature
 - creating new table using DAX Querries
 - sort  a column based on the value of another column
 - create column by combining value from two or more columns
-- use of functions like : T**OPN, SELECTED, SELECTEDVALUE, ALLSELECTED, and RANKX**. 
+- use of functions like : **TOPN, SELECTED, SELECTEDVALUE, ALLSELECTED, and RANKX**. 
 - creation and usage of **VARIABLES**
 - Template customization
 
